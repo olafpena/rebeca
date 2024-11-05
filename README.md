@@ -3,7 +3,7 @@
 ## Acceso 
 Indicar la direccion de la casa, tambien se solicita una identificacion.
 
-##Direccion
+## Direccion
 Circuito del hombre, MZ 55 LOTE 4, CASA 1
 Seccion 19
 Fraccionamiento Lomas de Cocoyoc
