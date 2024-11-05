@@ -19,4 +19,8 @@ Llevar:
 - Sandalias
 - Bloqueador solar
 
-#GRACIAS Y ESPERAMOS SU ASISTENCIA
+## Facilidades
+- Regaderas disponibles
+- Habitaciones para cambiarse
+
+# GRACIAS Y ESPERAMOS SU ASISTENCIA
