@@ -1,6 +1,6 @@
 # FIESTA REBECA 
 
-## Confirnar e informes
+## Confirmar e informes
 5530368384
 
 ## Acceso 
