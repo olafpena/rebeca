@@ -1,5 +1,8 @@
 # FIESTA REBECA 
 
+## Confirnar e informes
+5530368384
+
 ## Acceso 
 Para el acceso al condominio indicar la direccion de la casa, tambien se solicita una identificacion que se muestra en las casetas de acceso, a la salida se solicita abrir cajuela por temas de seguridad.
 
